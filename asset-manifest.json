@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/calculator/static/css/main.bec202db.chunk.css",
-    "main.js": "/calculator/static/js/main.6a6241ca.chunk.js",
-    "main.js.map": "/calculator/static/js/main.6a6241ca.chunk.js.map",
-    "runtime~main.js": "/calculator/static/js/runtime~main.2539f434.js",
-    "runtime~main.js.map": "/calculator/static/js/runtime~main.2539f434.js.map",
-    "static/css/2.f87fbcaa.chunk.css": "/calculator/static/css/2.f87fbcaa.chunk.css",
-    "static/js/2.13317995.chunk.js": "/calculator/static/js/2.13317995.chunk.js",
-    "static/js/2.13317995.chunk.js.map": "/calculator/static/js/2.13317995.chunk.js.map",
-    "index.html": "/calculator/index.html",
-    "precache-manifest.c1724e8f64a1ccbb880584517817da0e.js": "/calculator/precache-manifest.c1724e8f64a1ccbb880584517817da0e.js",
-    "service-worker.js": "/calculator/service-worker.js",
-    "static/css/2.f87fbcaa.chunk.css.map": "/calculator/static/css/2.f87fbcaa.chunk.css.map",
-    "static/css/main.bec202db.chunk.css.map": "/calculator/static/css/main.bec202db.chunk.css.map"
+    "main.css": "/calculator-1/static/css/main.bec202db.chunk.css",
+    "main.js": "/calculator-1/static/js/main.6a6241ca.chunk.js",
+    "main.js.map": "/calculator-1/static/js/main.6a6241ca.chunk.js.map",
+    "runtime~main.js": "/calculator-1/static/js/runtime~main.2c517a9e.js",
+    "runtime~main.js.map": "/calculator-1/static/js/runtime~main.2c517a9e.js.map",
+    "static/css/2.f87fbcaa.chunk.css": "/calculator-1/static/css/2.f87fbcaa.chunk.css",
+    "static/js/2.13317995.chunk.js": "/calculator-1/static/js/2.13317995.chunk.js",
+    "static/js/2.13317995.chunk.js.map": "/calculator-1/static/js/2.13317995.chunk.js.map",
+    "index.html": "/calculator-1/index.html",
+    "precache-manifest.b1efc1921dc77de28ac25be90c9c99a8.js": "/calculator-1/precache-manifest.b1efc1921dc77de28ac25be90c9c99a8.js",
+    "service-worker.js": "/calculator-1/service-worker.js",
+    "static/css/2.f87fbcaa.chunk.css.map": "/calculator-1/static/css/2.f87fbcaa.chunk.css.map",
+    "static/css/main.bec202db.chunk.css.map": "/calculator-1/static/css/main.bec202db.chunk.css.map"
   }
 }
