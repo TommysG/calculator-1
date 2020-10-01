@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/calculator-1/static/css/main.bec202db.chunk.css",
-    "main.js": "/calculator-1/static/js/main.6a6241ca.chunk.js",
-    "main.js.map": "/calculator-1/static/js/main.6a6241ca.chunk.js.map",
-    "runtime~main.js": "/calculator-1/static/js/runtime~main.2c517a9e.js",
-    "runtime~main.js.map": "/calculator-1/static/js/runtime~main.2c517a9e.js.map",
-    "static/css/2.f87fbcaa.chunk.css": "/calculator-1/static/css/2.f87fbcaa.chunk.css",
-    "static/js/2.13317995.chunk.js": "/calculator-1/static/js/2.13317995.chunk.js",
-    "static/js/2.13317995.chunk.js.map": "/calculator-1/static/js/2.13317995.chunk.js.map",
-    "index.html": "/calculator-1/index.html",
-    "precache-manifest.b1efc1921dc77de28ac25be90c9c99a8.js": "/calculator-1/precache-manifest.b1efc1921dc77de28ac25be90c9c99a8.js",
-    "service-worker.js": "/calculator-1/service-worker.js",
-    "static/css/2.f87fbcaa.chunk.css.map": "/calculator-1/static/css/2.f87fbcaa.chunk.css.map",
-    "static/css/main.bec202db.chunk.css.map": "/calculator-1/static/css/main.bec202db.chunk.css.map"
+    "main.css": "/simple-calculator/static/css/main.bec202db.chunk.css",
+    "main.js": "/simple-calculator/static/js/main.6a6241ca.chunk.js",
+    "main.js.map": "/simple-calculator/static/js/main.6a6241ca.chunk.js.map",
+    "runtime~main.js": "/simple-calculator/static/js/runtime~main.d489fee8.js",
+    "runtime~main.js.map": "/simple-calculator/static/js/runtime~main.d489fee8.js.map",
+    "static/css/2.f87fbcaa.chunk.css": "/simple-calculator/static/css/2.f87fbcaa.chunk.css",
+    "static/js/2.13317995.chunk.js": "/simple-calculator/static/js/2.13317995.chunk.js",
+    "static/js/2.13317995.chunk.js.map": "/simple-calculator/static/js/2.13317995.chunk.js.map",
+    "index.html": "/simple-calculator/index.html",
+    "precache-manifest.febbe7070b814f35f420b832f27c8b21.js": "/simple-calculator/precache-manifest.febbe7070b814f35f420b832f27c8b21.js",
+    "service-worker.js": "/simple-calculator/service-worker.js",
+    "static/css/2.f87fbcaa.chunk.css.map": "/simple-calculator/static/css/2.f87fbcaa.chunk.css.map",
+    "static/css/main.bec202db.chunk.css.map": "/simple-calculator/static/css/main.bec202db.chunk.css.map"
   }
 }
